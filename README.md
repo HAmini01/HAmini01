@@ -22,11 +22,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamini01&" alt="hamini01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamini01&show_icons=true&locale=en" alt="hamini01" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamini01&show_icons=true&locale=en&layout=compact" alt="hamini01" /></p>
 
 
 
